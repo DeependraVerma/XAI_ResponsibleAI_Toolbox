@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+shap
+lime
+aif360
+fairlearn
+
+
+# for developing
+
+tox==3.25.1
+tox-gh-actions
+pytest==7.1.3
+black==22.8.0
+flake8==5.0.4
+mypy==0.971
+
+-e .

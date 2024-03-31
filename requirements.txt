@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+shap
+lime
+aif360
+fairlearn
+
+-e .
