@@ -43,5 +43,8 @@ setup(
         "lime",
         "aif360",
 "fairlearn",
+"seaborn",
+"matplotlib",
+"scikit-image",
     ],
 )
