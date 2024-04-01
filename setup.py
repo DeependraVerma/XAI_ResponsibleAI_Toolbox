@@ -15,7 +15,7 @@ def get_requirements(file_path:str)-> List[str]:
             requirements.remove(HYPEN_E_DOT)
     return requirements
 
-__version__ = "0.2.0"
+__version__ = "0.0.1"
 REPO_NAME = "XAI_ResponsibleAI_Toolbox"
 PKG_NAME= "XplainML"
 AUTHOR_USER_NAME = "DeependraVerma"
